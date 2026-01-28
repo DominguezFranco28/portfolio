@@ -5,19 +5,22 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <header>
-        <h3>✅ Maximiliano Sar Fernández</h3>
+        <h3>Franco Julian Dominguez</h3>
     </header>
     <section class="uno">
         <div class="caja-central">
             <div class="caja-cara">
-                <img class="cara" src="https://yt3.ggpht.com/ytc/AKedOLQBzk0aAmIlnqv1aoO9M-I7gdxrPJC7dwdSnXWq=s900-c-k-c0x00ffffff-no-rj" alt="Maxi Programa">
+                <img class="cara" src="https://media.licdn.com/dms/image/v2/D4D03AQF8JzVkyOsRiA/profile-displayphoto-scale_400_400/B4DZoDoogiJMAg-/0/1760997575377?e=1771459200&v=beta&t=QhkE6MOZEuk3Oj3rM3qQPeDO4cY7zp4XnmLRPH3GPf4" alt="Maxi Programa">
             </div>
             <div class="caja-presentacion">
                 <div>
-                    <h1>Hola 🚀</h1>
+                    <h1>Sobre mi</h1>
                     <p class="presentacion">
-                        Cómo va? Mi nombre es Max y estás viendo la plantilla que armé para regalarte y que puedas 
-                     tomar como punto de partida para armar tu portfolio personal. Espero te sea de mucha utilidad!
+                        Hola! Soy Franco.
+                        Soy un desarrollador principiante apasionado por la programación y el desarrollo de aplicaciones!
+                        Cuento con la madurez profesional de un supervisor operativo con años de experiencia real en entornos dinamicos y desafiantes.
+                        Pero ahora, estoy en la busqueda de una oportunidad en el rubro IT,  donde pueda demostrar que mi curva de aprendizaje técnica es rápida y que mi ética de trabajo es inmediata. 
+                        Estoy convencido de que puedo aportar valor a cualquier equipo desde el primer día, integrándome con profesionalismo y dedicación!
                 
                     </p>
                 </div>
@@ -27,7 +30,7 @@
     <section class="dos">
         <h2>Sobre mí</h2>
         <p>
-            VIVA PERON Y NADIE MAS QUE PERONNN
+                                    Mi perfil es una combinación poco convencional pero altamente efectiva para un rol junior o trainee.
     
         </p>
         <h2>Aptitudes</h2>
@@ -37,23 +40,28 @@
         </p>
         <div class="aptitudes">
             <div class="tech-list">
-                <img src="https://www.horuss.com.mx/wp-content/uploads/2019/04/c.png" class="tech" alt="">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" class="tech" alt="">
-                <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" class="tech" alt="">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" class="tech" alt="">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" class="tech" alt="">
+                <img src="https://www.csharp411.com/wp-content/uploads/2023/03/word-image-720-1.png" class="tech" alt="">
             </div>
             <div class="tech-list">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" class="tech" alt="">
-                <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" class="tech" alt="">
-                <img src="https://uploads-ssl.webflow.com/601c0e3cbd7dd2d237d64d43/608ac37e36463ebe56c55f6d_firebase-logo.png" class="tech" alt="">
-            </div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" class="tech" alt="">
+                <img src="https://images.seeklogo.com/logo-png/27/2/unity-logo-png_seeklogo-274050.png" class="tech" alt="">
+                <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" class="tech" alt="">
+                           
         </div>
-        <h2>Cursos realizados</h2>
-        <ul>
-            <li>Curso de Fundamentos de la Programación Nivel Universidad [GRATIS] 👉 <a href="maxiprograma.com/seh">Ver</a></li>
-            <li>Curso de Programación con C# Nivel 1 [Desde Cero]</li>
-            <li>Curso de Programación con C# Nivel 2: POO + .NET + SQL</li>
-            <li>Curso de Programación con C# Nivel 3: Web ASP .NET Parte 1</li>
-        </ul>
+        <div>
+
+            <h2 class="text-center">Formación Academica</h2>
+            <ul>
+                <li>Tecnicatura en programacion y desarrollo de videojuegos</li>
+                <li>Profesorado en Historia</li>
+                <li>Curso de Fundamentos de la Programación Nivel Universidad</li>
+                <li>Curso de Programación con C# Nivel 1 [Desde Cero]</li>
+                <li>Curso de Programación con C# Nivel 2: POO + .NET + SQL</li>
+                <li>Curso de Programación con C# Nivel 3: Web ASP .NET Parte 1</li>
+            </ul>
+        </div>
     </section>
     <section class="tres">
         <h2>Mis Proyectos</h2>
@@ -63,22 +71,20 @@
                 <div class="card-body">
                     <h3 class="card-title">Helenna </h3>
                     <p class="card-text">
-                        Videojuego de puzzles y aventura 2D desarrollado en Unity. Prototipo realizado comoa ctividad final integradora, presentado en la Exposición de videojuegos Argentinos 2025
+                        Videojuego de puzzles y aventura 2D desarrollado en Unity. Prototipo realizado como actividad final integradora, y fue presentado en la Exposición de Videojuegos Argentinos 2025
      
                     </p>
-                    <a href="https://distant-fantasy-games.itch.io/helenna" class="btn btn-primary">Go somewhere</a>
+                    <a href="https://distant-fantasy-games.itch.io/helenna" class="btn btn-primary">Jugar</a>
                 </div>
             </div>
             <div class="card bg-dark text-white" style="width: 18rem;">
-                <img src="https://i.ytimg.com/vi/8ANRCYtveMI/maxresdefault.jpg" class="card-img-top" alt="...">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HREI9VZ2EARZ59yAk0CXMLF1mw7O1Qub2A&s" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h3 class="card-title">YouTube</h3>
+                    <h3 class="card-title">Proximamente</h3>
                     <p class="card-text">
-                        Mi canal donde encontrarás mucha data sobre experiencias y más. Ah, y 
-                                  un curso gratis de fundamentos de la programación.
-           
+                       Proyecto en desarrollo!          
                     </p>
-                    <a href="https://youtube.com/maxiprograma" class="btn btn-primary">Go somewhere</a>
+               <%--     <a href="#" class="btn btn-primary">Go somewhere</a>--%>
                 </div>
             </div>
         </div>

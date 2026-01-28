@@ -24,64 +24,46 @@
         <div>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">Navbar</a>
+                    <%--<a class="navbar-brand" href="#">Navbar</a>--%>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                <%--runat server junta la virguililla le dice a asp que lo traduzca a la raiz del proyecto. SI el .aspx no entiende que es una web ejecutable--%>
+                                <a class="nav-link active" aria-current="page" runat="server" href="~/Default.aspx">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" runat="server" href="~/Login">Login</a>
+                                <a class="nav-link active" aria-current="page" runat="server" href="~/Helenna.aspx">Helenna</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Link</a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li>
-                                        <hr class="dropdown-divider">
-                                    </li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                </ul>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                                <a class="nav-link disabled" aria-disabled="true">En desarrollo...</a>
                             </li>
                         </ul>
-                        <form class="d-flex" role="search">
-                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                            <button class="btn btn-outline-success" type="submit">Search</button>
-                        </form>
                     </div>
                 </div>
             </nav>
             <div>
-                <%--todo el contenido de otras paginas aspx lo metemos dentro del container--%>
 
+                <%--todo el contenido de otras paginas aspx lo metemos dentro del container--%>
                 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                 </asp:ContentPlaceHolder>
             </div>
 
-            <footer >
+            <footer>
                 <h2 class="text-center pt-4">Contactame</h2>
 
                 <div class="contacto d-flex justify-content-center align-items-center gap-4 py-3">
-                    <a href="https://www.linkedin.com/in/msarfernandez/" target="_blank">
+                    <a href="https://www.linkedin.com/in/franco-dom%C3%ADnguez28/" target="_blank">
                         <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" class="red-social" alt="LinkedIn">
                     </a>
 
-                    <a href="https://instagram.com/maxiprograma/" target="_blank">
+                    <a href="https://www.instagram.com/frandominguez28/?hl=es-la" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" class="red-social" alt="Instagram">
                     </a>
 
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/DominguezFranco28" target="_blank">
                         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" class="red-social" alt="Github">
                     </a>
                 </div>

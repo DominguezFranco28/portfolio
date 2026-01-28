@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\",
+  "WorkspaceRootPath": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|d:\\desarrollo y prog. de videojuegos\\cursos c# - .net\\portfolio\\webapplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|d:\\desarrollo y prog. de videojuegos\\cursos c# - .net\\portfolio\\portfolio\\portfolio\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|d:\\desarrollo y prog. de videojuegos\\cursos c# - .net\\portfolio\\portfolio\\portfolio\\webapplication1\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|solutionrelative:webapplication1\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|d:\\desarrollo y prog. de videojuegos\\cursos c# - .net\\portfolio\\portfolio\\portfolio\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|d:\\desarrollo y prog. de videojuegos\\cursos c# - .net\\portfolio\\portfolio\\portfolio\\webapplication1\\helenna.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\Portfolio.csproj|solutionrelative:webapplication1\\helenna.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\WebApplication1.csproj|D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\webapplication1\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\WebApplication1.csproj|D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{37D79E70-AC41-44E7-94E6-2AB44478F0C7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "estilos.css",
-              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\estilos.css",
-              "RelativeDocumentMoniker": "WebApplication1\\estilos.css",
-              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\estilos.css",
-              "RelativeToolTip": "WebApplication1\\estilos.css",
-              "ViewState": "AgIAAGkAAAAAAAAAAIBJwKAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-27T16:16:35.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\Default.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
-              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\Default.aspx",
-              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
+              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\Login.aspx",
+              "RelativeToolTip": "WebApplication1\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-27T13:24:15.336Z",
+              "WhenOpened": "2026-01-28T14:19:05.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\Login.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
-              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\Login.aspx",
-              "RelativeToolTip": "WebApplication1\\Login.aspx",
+              "Title": "Helenna.aspx",
+              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\Helenna.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Helenna.aspx",
+              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\Helenna.aspx",
+              "RelativeToolTip": "WebApplication1\\Helenna.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-26T12:31:12.968Z"
+              "WhenOpened": "2026-01-28T14:18:50.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "estilos.css",
+              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\estilos.css",
+              "RelativeDocumentMoniker": "WebApplication1\\estilos.css",
+              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\estilos.css",
+              "RelativeToolTip": "WebApplication1\\estilos.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-27T16:16:35.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MasterPage.Master",
-              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\MasterPage.Master",
+              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\MasterPage.Master",
               "RelativeDocumentMoniker": "WebApplication1\\MasterPage.Master",
-              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\WebApplication1\\WebApplication1\\MasterPage.Master",
+              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\MasterPage.Master",
               "RelativeToolTip": "WebApplication1\\MasterPage.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-01-25T14:45:56.11Z"
+              "WhenOpened": "2026-01-28T13:38:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "D:\\Desarrollo y prog. de Videojuegos\\Cursos C# - .NET\\PortFolio\\Portfolio\\Portfolio\\WebApplication1\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-27T13:24:15.336Z",
+              "EditorCaption": ""
             }
           ]
         }
